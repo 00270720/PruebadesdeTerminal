@@ -1,0 +1,16 @@
+C:\Users\Fernando\Desktop\Repaso\Repo1\collaborativeWork\obj\Debug\net5.0\collaborativeWork.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Repaso\Repo1\collaborativeWork\obj\Debug\net5.0\collaborativeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Desktop\Repaso\Repo1\collaborativeWork\obj\Debug\net5.0\collaborativeWork.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\Repaso\Repo1\collaborativeWork\obj\Debug\net5.0\collaborativeWork.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\Repaso\Repo1\collaborativeWork\obj\Debug\net5.0\collaborativeWork.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Repaso\Repo1\collaborativeWork\bin\Debug\net5.0\collaborativeWork.exe
+C:\Users\Fernando\Desktop\Repaso\Repo1\collaborativeWork\bin\Debug\net5.0\collaborativeWork.deps.json
+C:\Users\Fernando\Desktop\Repaso\Repo1\collaborativeWork\bin\Debug\net5.0\collaborativeWork.runtimeconfig.json
+C:\Users\Fernando\Desktop\Repaso\Repo1\collaborativeWork\bin\Debug\net5.0\collaborativeWork.runtimeconfig.dev.json
+C:\Users\Fernando\Desktop\Repaso\Repo1\collaborativeWork\bin\Debug\net5.0\collaborativeWork.dll
+C:\Users\Fernando\Desktop\Repaso\Repo1\collaborativeWork\bin\Debug\net5.0\ref\collaborativeWork.dll
+C:\Users\Fernando\Desktop\Repaso\Repo1\collaborativeWork\bin\Debug\net5.0\collaborativeWork.pdb
+C:\Users\Fernando\Desktop\Repaso\Repo1\collaborativeWork\obj\Debug\net5.0\collaborativeWork.dll
+C:\Users\Fernando\Desktop\Repaso\Repo1\collaborativeWork\obj\Debug\net5.0\ref\collaborativeWork.dll
+C:\Users\Fernando\Desktop\Repaso\Repo1\collaborativeWork\obj\Debug\net5.0\collaborativeWork.pdb
+C:\Users\Fernando\Desktop\Repaso\Repo1\collaborativeWork\obj\Debug\net5.0\collaborativeWork.genruntimeconfig.cache
